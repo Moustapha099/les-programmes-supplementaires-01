@@ -1,0 +1,5 @@
+TELECHARGER D'ABORD LA BIBLIOTHEQUE DE AF_MOTOR.H (AF_MOTOR) dans l'application android ( sritu hobby )
+
+Tout le projet est detaillé la-bas (CAR AVOIDANCE ) this is the first car
+
+je dis bien tout 

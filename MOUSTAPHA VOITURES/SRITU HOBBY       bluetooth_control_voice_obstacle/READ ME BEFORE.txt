@@ -1,0 +1,5 @@
+TELECHARGER D'ABORD LA BIBLIOTHEQUE DE AF_MOTOR.H (AF_MOTOR) dans l'application android ( sritu hobby )
+
+Tout le projet est detaillé la-bas (section How to make a multi-funvtion Arduino robot)
+
+je dis bien tout 
